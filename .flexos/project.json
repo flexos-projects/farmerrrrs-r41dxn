@@ -1,22 +1,19 @@
 {
-  "id": null,
-  "name": "{{project_name}}",
-  "slug": "{{project_slug}}",
+  "id": "09a19849-2a19-4b5b-8296-4c9e0bacf4f0",
+  "name": "Farmerrrrs",
+  "slug": "farmerrrrs",
   "description": "",
   "tagline": "",
   "tags": [],
-
   "owner": {
-    "id": null,
-    "email": null
+    "id": "U9zS290HBcTz4AG837umBdPeNfv2",
+    "email": "jos@flexgroup.dev"
   },
-
   "status": "active",
   "visibility": "private",
-
   "brand": {
-    "themeColor": "{{theme_color}}",
-    "theme": "default",
+    "themeColor": "#3B82F6",
+    "theme": "light",
     "logo": null,
     "favicon": null,
     "openGraph": {
@@ -25,26 +22,22 @@
       "image": null
     }
   },
-
   "deploy": {
-    "rootMode": "portal",
+    "rootMode": "prototype",
     "prototypeEnabled": true,
-    "vercelDomain": null,
+    "vercelDomain": "farmerrrrs-r41dxn.flexos.site",
     "customDomain": null
   },
-
   "github": {
-    "repoOwner": null,
-    "repoName": null,
+    "repoOwner": "flexos-projects",
+    "repoName": "farmerrrrs-r41dxn",
     "branch": "main",
-    "url": null
+    "url": "https://github.com/flexos-projects/farmerrrrs-r41dxn"
   },
-
   "vercel": {
     "projectId": null,
     "productionUrl": null
   },
-
   "techStack": {
     "framework": "nuxt4",
     "hosting": "vercel",
@@ -52,13 +45,11 @@
     "auth": "better-auth",
     "css": "open-props"
   },
-
   "settings": {
     "defaultFocusMode": true,
     "autoSave": true,
     "aiModel": "gemini-flash"
   },
-
-  "createdAt": "{{created_at}}",
-  "updatedAt": "{{created_at}}"
+  "createdAt": "2026-03-26T21:35:51.761Z",
+  "updatedAt": "2026-03-26T21:35:51.761Z"
 }
