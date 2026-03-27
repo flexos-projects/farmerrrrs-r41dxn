@@ -1,13 +1,14 @@
 ---
 id: space-001-kickoff
-title: "Kickoff"
+title: Kickoff
 type: space
 subtype: session
 status: active
 sequence: 35
-relatesTo: []
-createdAt: "2026-03-15"
-updatedAt: "2026-03-15"
+relatesTo:
+  - design/001-tokens-design-system.md
+createdAt: 2026-03-15
+updatedAt: 2026-03-15
 ---
 
 # Kickoff Session
